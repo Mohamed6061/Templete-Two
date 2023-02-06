@@ -1,6 +1,6 @@
 # Templete-two
 
-Templete one (HTML &amp; CSS)
+Templete Two (HTML &amp; CSS)
 
 To visit website :  https://mohamed6061.github.io/Templete-Two/
 
